@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Tux.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xsd/profil.xsd</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Chronometre.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xslt/profil.xsl</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Profil.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Room.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xml/plateau.xml</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Partie.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/LanceurDeJeu.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Dico.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xsd/dico.xsd</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xslt/dico1.xsl</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Letter.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/EnvTextMap.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/Jeu.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/game/JeuDevineLeMotOrdre.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xml/dico.xml</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/test/TestDico.java</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xml/profil.xml</file>
+            <file>file:/home/zeinabou/NetBeansProjects/FDD_XML/Template/TuxLetterGame_template/src/Data/xslt/dico2.xsl</file>
+        </group>
+    </open-files>
+</project-private>

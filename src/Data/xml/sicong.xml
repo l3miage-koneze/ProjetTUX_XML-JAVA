@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil>
+    <nom>sicong</nom>
+    <avatar>avatar.png</avatar>
+    <dateNaissance>2001-10-21</dateNaissance>
+    <parties>
+        <partie date="2022-12-06" trouvé="100">
+            <temps>16</temps>
+            <mot niveau="4">fréjus</mot>
+        </partie>
+        <partie date="2022-12-06" trouvé="75">
+            <temps>12</temps>
+            <mot niveau="5">bordeaux</mot>
+        </partie>
+        <partie date="2022-12-19" trouvé="100">
+            <temps>10</temps>
+            <mot niveau="2">lyon</mot>
+        </partie>
+    </parties>
+</profil>

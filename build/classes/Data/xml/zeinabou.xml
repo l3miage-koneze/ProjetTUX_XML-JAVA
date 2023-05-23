@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil>
+    <nom>zeinabou</nom>
+    <avatar>avatar.png</avatar>
+    <dateNaissance>2001-10-21</dateNaissance>
+    <parties>
+        <partie date="2022-12-06" trouvé="100">
+            <temps>39</temps>
+            <mot niveau="3">nîmes</mot>
+        </partie>
+    </parties>
+</profil>

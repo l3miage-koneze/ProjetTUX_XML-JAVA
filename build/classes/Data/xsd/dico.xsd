@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<!--
+
+Authors : Zeinabou Bissi KONE - Sicong XU
+
+-->
+
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:tux="http://myGame/tux"
+           targetNamespace="http://myGame/tux"
+           elementFormDefault="qualified">
+    
+    
+    
+    <!--.......................RACINE......................-->
+    
+    <xs:element name="dictionnaire" type="tux:Dictionnaire"/>
+    
+    
+    
+    
+    <!--.............Définition du type Dictionnaire.............-->
+    
+    <xs:complexType name="Dictionnaire">
+        <xs:sequence>
+            <xs:element name="mot" type="tux:Mot" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    
+    
+    <!--.....................Définition du type Mot..............-->
+    
+    <xs:complexType name="Mot">
+        <xs:simpleContent>
+            <xs:extension base="tux:NomVille">
+                <xs:attribute name="niveau" type="tux:Niveau"/> 
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    
+    
+    <!--...............Définition du type nomVille avec restriction sur les caractères................-->
+    
+    <xs:simpleType name="NomVille">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="3"/>
+            <xs:pattern value="[A-Z]([abcdefghijklmnopqrstuvwxyzéèàùâûôêäëïöüçỹ])*"/>
+            <xs:pattern value="[A-Z]([abcdefghijklmnopqrstuvwxyzéèàùâûôêîäëïöüçỹ])*([-][A-Z]([abcdefghijklmnopqrstuvwxyzéèàùâûôêîäëïöüçỹ])*)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    
+    
+    <!--.................Définition du type Niveau avec ses restrictions sur les valeurs qu'il peut prendre.........-->
+    
+    <xs:simpleType name="Niveau">
+        <xs:restriction base="xs:int">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="5"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

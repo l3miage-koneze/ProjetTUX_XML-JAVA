@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil>
+    <nom>floriane</nom>
+    <avatar>avatar.png</avatar>
+    <dateNaissance>2001-10-21</dateNaissance>
+    <parties>
+        <partie date="2023-02-21" trouvé="100">
+            <temps>22</temps>
+            <mot niveau="4">roanne</mot>
+        </partie>
+    </parties>
+</profil>

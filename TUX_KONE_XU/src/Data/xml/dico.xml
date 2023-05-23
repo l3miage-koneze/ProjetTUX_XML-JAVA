@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!--
+Authors : Zeinabou Bissi KONE - Sicong XU
+
+-->
+
+<dictionnaire
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns='http://myGame/tux'
+    xsi:schemaLocation='http://myGame/tux ../xsd/dico.xsd'>
+    
+    
+    
+    <!--.............Mots de niveau 1..........-->
+    
+    <mot niveau="1">Aix</mot>
+    <mot niveau="1">Dax</mot>
+    <mot niveau="1">Die</mot>
+    <mot niveau="1">Gap</mot>
+    <mot niveau="1">Pau</mot>
+    
+    
+    <!--.............Mots de niveau 2..........-->
+    
+    <mot niveau="2">Agde</mot>
+    <mot niveau="2">Agen</mot>
+    <mot niveau="2">Bron</mot>
+    <mot niveau="2">Caen</mot>
+    <mot niveau="2">Laon</mot>
+    <mot niveau="2">Lyon</mot>
+    <mot niveau="2">Metz</mot>
+    <mot niveau="2">Nice</mot>
+    <mot niveau="2">Riom</mot>
+    <mot niveau="2">Sète</mot>
+    
+    
+    <!--.............Mots de niveau 3..........-->
+    
+    <mot niveau="3">Brest</mot>
+    <mot niveau="3">Dijon</mot>
+    <mot niveau="3">Lille</mot>
+    <mot niveau="3">Massy</mot>
+    <mot niveau="3">Nancy</mot>
+    <mot niveau="3">Nîmes</mot>
+    <mot niveau="3">Paris</mot>
+    <mot niveau="3">Reims</mot>
+    <mot niveau="3">Rouen</mot>
+    
+    
+    <!--.............Mots de niveau 4..........-->
+    
+    <mot niveau="4">Amiens</mot>
+    <mot niveau="4">Angers</mot>
+    <mot niveau="4">Annecy</mot>
+    <mot niveau="4">Calais</mot>
+    <mot niveau="4">Cannes</mot>
+    <mot niveau="4">Fréjus</mot>
+    <mot niveau="4">Grasse</mot>
+    <mot niveau="4">Nantes</mot>
+    <mot niveau="4">Orange</mot>
+    <mot niveau="4">Pessac</mot>
+    <mot niveau="4">Rennes</mot>
+    <mot niveau="4">Roanne</mot>
+    
+    
+    <!--.............Mots de niveau 5..........-->
+    
+    <mot niveau="5">Aix-Les-Bains</mot>
+    <mot niveau="5">Antibes</mot>
+    <mot niveau="5">Avignon</mot>
+    <mot niveau="5">Besançon</mot>
+    <mot niveau="5">Bordeaux</mot>
+    <mot niveau="5">Châteauroux</mot>
+    <mot niveau="5">Clermont-Ferrand</mot>
+    <mot niveau="5">Marseille</mot>
+    <mot niveau="5">Montpellier</mot>
+    <mot niveau="5">Narbonne</mot>
+    <mot niveau="5">Orléans</mot>
+    <mot niveau="5">Quimper</mot>
+    <mot niveau="5">Saint-Etienne</mot>
+    <mot niveau="5">Saint-Jean-Cap-Ferrat</mot>
+    <mot niveau="5">Strasbourg</mot>    
+    <mot niveau="5">Toulouse</mot>
+    <mot niveau="5">Valence</mot>
+    
+</dictionnaire>
